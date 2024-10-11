@@ -2,13 +2,13 @@
 ## How to Compile and Run the Code
 
 ### Prerequisites
+- Python 3.x  (above 3.0 is stable) 
 
 ### Steps to Compile and Run
 
-#### 1. Clone the repository
+### 1. Clone the repository
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/MrT2003/Laboratory_AI_LAB_1
 
 # Recommend using virtual environments to set up library
     # For Linux/macOS
@@ -18,8 +18,7 @@ cd repository-name
         python -m venv venv
         venv\Scripts\activate
 
-
-### Run the application
+### 2. Run the application
 Input this command in the terminal: python pacman.py --layout _______ --pacman _______
 Explain: 
 + In the first blank space, filling the layout that you want (Ex: tinyMaze, mediumMax, myLayout, etc.).
